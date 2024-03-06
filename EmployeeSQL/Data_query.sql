@@ -27,7 +27,7 @@ ON salaries.emp_no = employees.emp_no;
 
 SELECT first_name, last_name, hire_date
 FROM employees
-WHERE hire_date >= '1990-01-01' AND hire_date <= '1990-12-31';
+WHERE hire_date >= '1986-01-01' AND hire_date <= '1986-12-31';
 
 -- Display the manager of each department along with their department number, department name, employee number, last name, and first name
 
