@@ -31,5 +31,5 @@ Data Analysis:
 
 # Usage:
 
-Execute schema.sql to create the requisite tables.
-Execute data_analysis.sql to conduct data analysis.
+- Execute schema.sql to create the requisite tables.
+- Execute data_analysis.sql to conduct data analysis.
